@@ -1,0 +1,30 @@
+#start
+{
+    width: 40%;
+    background-color:coral;
+    border-color:rgb(130, 65, 41);
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(125, 65, 65);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+ color:rgb(186, 42, 42)
+}
